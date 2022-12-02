@@ -3,9 +3,9 @@
 import './auth/user.js';
 
 /* Get DOM Elements */
-
+const taskList = document.getElementById('blog-list');
 /* State */
 
 /* Events */
-
+async function loadTasks() {}
 /* Display Functions */
